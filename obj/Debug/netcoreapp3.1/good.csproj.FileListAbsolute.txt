@@ -1,0 +1,13 @@
+C:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.exe
+c:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.deps.json
+c:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.runtimeconfig.json
+c:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.runtimeconfig.dev.json
+C:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.dll
+C:\Users\luzey\Desktop\good\bin\Debug\netcoreapp3.1\good.pdb
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.csprojAssemblyReference.cache
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.AssemblyInfoInputs.cache
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.AssemblyInfo.cs
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.csproj.CoreCompileInputs.cache
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.dll
+C:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.pdb
+c:\Users\luzey\Desktop\good\obj\Debug\netcoreapp3.1\good.genruntimeconfig.cache
